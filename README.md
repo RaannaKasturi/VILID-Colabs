@@ -1,5 +1,5 @@
 # Visual Colabs
-Colab Notebooks For Stable Diffusion Webui & ComfyUI
+Colab Notebooks For Stable Diffusion Webui & Stable Diffusion ComfyUI
 
 # Colab Notebook
 | Colab Link | Features | Extensions | Resources | How to Launch |
