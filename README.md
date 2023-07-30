@@ -1,6 +1,6 @@
 # VILID Colabs
-VILID => Vocabulary Impelled Limitless Imagination Design
-VILID is basically the [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) itself, with a few modifications
+VILID => Vocabulary Impelled Limitless Imagination Design<br>
+VILID is basically the [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) itself, with a few modifications<br>
 Colab Notebooks For Stable Diffusion Webui & Stable Diffusion ComfyUI
 
 # Colab Notebook
