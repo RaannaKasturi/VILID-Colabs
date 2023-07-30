@@ -1,4 +1,5 @@
-# Visual Colabs
+# VILID Colabs
+VILID is basically the [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) itself, with a few modifications
 Colab Notebooks For Stable Diffusion Webui & Stable Diffusion ComfyUI
 
 # Colab Notebook
